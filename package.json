@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/helangor/Website-with-auth#readme",
   "dependencies": {
-    "bcrypt": "^4.0.1",
+    "bcrypt": "^5.0.0",
     "dotenv": "^8.2.0",
     "express-session": "^1.17.0",
     "md5": "^2.2.1",
